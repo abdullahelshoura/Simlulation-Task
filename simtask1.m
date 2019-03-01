@@ -1,4 +1,4 @@
-%% log functions
+%%LOG_FUN
 x=0:0.08:15;
 y1=log(x);
 y2=log2(x);
